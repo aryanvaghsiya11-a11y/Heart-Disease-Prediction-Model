@@ -94,7 +94,7 @@ Export: Saving the entire pipeline as a .pkl file.
 Clone the repository:
 
 Bash
-git clone https://github.com/your-username/heart-disease-prediction.git
+git clone https://github.com/aryanvaghsiya11-a11yheart-disease-prediction.git
 cd heart-disease-prediction
 Install required dependencies:
 
