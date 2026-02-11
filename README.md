@@ -2,6 +2,8 @@
 🫀 Heart Disease Prediction Model An end-to-end ML pipeline classifying cardiovascular risk with 87% accuracy. Features a robust Scikit-Learn preprocessing architecture and advanced hyperparameter tuning using Optuna. Includes an optimized XGBoost/Random Forest ensemble model ready for clinical deployment. 🚀
 This project is a robust machine learning pipeline designed to predict the likelihood of heart disease based on clinical patient data. It encompasses the full data science lifecycle, from comprehensive data preprocessing and exploratory analysis to automated hyperparameter optimization using Optuna and model deployment.
 
+![image alt](https://github.com/aryanvaghsiya11-a11y/Heart-Disease-Prediction-Model/blob/2d413e4d1b59dfc9c7e888e94994b794c751eaf8/Heart%20Disease%20Prediction%20Model.jpeg)
+
 📌 Features
 Data Cleaning and Preprocessing
 
